@@ -68,7 +68,7 @@ nCube 폴더의 nCube.ino 파일을 열고 154 Line에 있는 "Calorie_Defender"
 
 <p align="center"><img src="https://user-images.githubusercontent.com/39123255/50836538-c3a97780-139c-11e9-97b4-a8238a94a4e8.png" width=500></p>
 
-성공적으로 공유기에 Calorie Defender가 연결되면 http://203.253.128.161:7575/#!/monitor에 들어가 /Mobius/'자신이 입력한 AE_NAME'을 Target Resource에 입력하고 Start 버튼을 누르면 다음과 같은 리소스 트리를 확인할 수 있다.(현재는 서비스를 이용할 수 없으며 만약 서비스를 이용하고자 한다면 [이 사이트](https://github.com/IoTKETI/Mobius/wiki/Mobius_v2.0.0_KR_Windows)를 참고하여 직접 서버를 구축한 다음 이 서버를 통해 서비스를 이용해야한다. 단, 이 경우 nQube 폴더의 nQube.io의 158 Line oneM2M-Application-AndroidSample-2.5의 MainActivity의 112 Line을 알맞게 수정해야함)
+성공적으로 공유기에 Calorie Defender가 연결되면 http://203.253.128.161:7575/#!/monitor에 들어가 /Mobius/'자신이 입력한 AE_NAME'을 Target Resource에 입력하고 Start 버튼을 누르면 다음과 같은 리소스 트리를 확인할 수 있다.(현재는 서비스를 이용할 수 없으며 만약 서비스를 이용하고자 한다면 [이 사이트](https://github.com/IoTKETI/Mobius/wiki/Mobius_v2.0.0_KR_Windows)를 참고하여 직접 서버를 구축한 다음 이 서버를 통해 서비스를 이용해야한다. 단, 이 경우 nCube 폴더의 nCube.io의 158 Line oneM2M-Application-AndroidSample-2.5의 MainActivity의 112 Line을 알맞게 수정해야함)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/39123255/50836321-4d0c7a00-139c-11e9-8eb8-8612c01702f7.png" width=750></p>
 
